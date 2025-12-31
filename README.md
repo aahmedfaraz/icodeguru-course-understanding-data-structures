@@ -20,40 +20,40 @@ This repo contains **all code, implementations, and practice problems** used in 
 ### Week 1 – Foundations & Linear Data Structures  
 **Trainer:** Ahmed Faraz
 - Time & Space Complexity  
-- List → [Folder]()  
-- Dictionary → [Folder]()  
-- Singly Linked List → [Folder]()  
-- Doubly Linked List → [Folder]()
+- List  
+- Dictionary  
+- Singly Linked List  
+- Doubly Linked List
 
 ---
 
 ### Week 2 – Stacks, Queues & Trees  
 **Trainer:** Mariam Saad
-- Stack → [Folder]()  
-- Queue → [Folder]()  
-- Deque → [Folder]()  
-- Trees Introduction → [Folder]()  
-- Binary Tree → [Folder]()
+- Stack  
+- Queue  
+- Deque  
+- Trees Introduction  
+- Binary Tree
 
 ---
 
 ### Week 3 – Trees, Heaps & Graph Basics  
 **Trainer:** Ahmed Faraz
-- Binary Search Tree → [Folder]()  
-- Min Heap → [Folder]()  
-- Max Heap → [Folder]()  
-- Graphs Introduction → [Folder]()  
-- Adjacency List Implementation → [Folder]()
+- Binary Search Tree  
+- Min Heap  
+- Max Heap  
+- Graphs Introduction  
+- Adjacency List Implementation
 
 ---
 
 ### Week 4 – Graph Traversals & Implementations  
 **Trainer:** Abdullah Khetran
-- Adjacency Matrix Implementation → [Folder]()  
-- BFS → [Folder]()  
-- DFS → [Folder]()  
-- List Implementation → [Folder]()  
-- Dictionary Implementation → [Folder]()
+- Adjacency Matrix Implementation  
+- BFS  
+- DFS  
+- List Implementation  
+- Dictionary Implementation
 
 ---
 
