@@ -65,3 +65,20 @@ student3 = {
 
 print(student2)
 
+
+# OUTPUT
+# {}
+# {'name': 'Ahmed', 'age': 25, 'cgpa': 3.6}
+# 25
+# 25
+# {'name': 'Ahmed', 'age': 25, 'cgpa': 3.8}
+# {'name': 'Ahmed', 'age': 25}
+# False
+# True
+# name Ahmed
+# age 25
+# 2
+# Ahmed
+# 25
+# 3.4
+# {'name': 'Ali', 'age': 25, 'cgpa': 3.4}
