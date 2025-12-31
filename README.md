@@ -60,7 +60,7 @@ This repo contains **all code, implementations, and practice problems** used in 
 ## 🎥 Course Lectures
 
 ▶️ **Watch all lectures here:**  
-https://lnkd.in/dvcdN2Cc
+https://www.youtube.com/playlist?list=PLe-jr3hh4N_nyMgyE40AqwxFDsoJW6iV1
 
 ---
 
@@ -76,18 +76,5 @@ https://lnkd.in/dvcdN2Cc
 
 - Ebadur Rehman Talha  
 - Zubair Sajjad
-
----
-
-## 🙏 Acknowledgment
-
-Thanks to **iCodeGuru** and **Sir Zafar Shahid, PhD**, for the opportunity to teach and learn together.
-
----
-
-## 📌 Note
-
-This repository is meant for **learning and practice**.  
-Focus on understanding concepts, not memorizing code.
 
 Happy Learning 🚀
