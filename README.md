@@ -10,7 +10,7 @@ This repo contains **all code, implementations, and practice problems** used in 
 
 - **Duration:** 4 Weeks  
 - **Format:** Hands-on learning  
-- **Approach:** One data structure at a time + daily LeetCode problem  
+- **Approach:** One data structure at a time  
 - **Level:** Beginner to Intermediate  
 
 ---
